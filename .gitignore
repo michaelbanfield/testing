@@ -1,0 +1,8 @@
+# binaries
+testing
+!_build/dockercompose/testing
+!_build/dockerfile/testing
+
+# other
+.DS_Store
+_build/dockerfile/testing/swagger_spec
